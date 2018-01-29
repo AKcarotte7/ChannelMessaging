@@ -1,4 +1,4 @@
-package loris.pinna.channelmessaging;
+package vladimir.emelianenko.channelmessaging;
 
 import org.junit.Test;
 
